@@ -2,4 +2,5 @@ first edition
 first edition
 second edition
 issue resolved
+<<<<<<< HEAD
 hotfix my solution
